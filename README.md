@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Jae-Min&show_icons=true&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Jae-Min&show_icons=true&theme=material-palenight)<br>
 <a href="https://velog.io/@kjaemin0122"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <!--
