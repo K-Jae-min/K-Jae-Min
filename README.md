@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Jae-Min&show_icons=true&theme=material-palenight)
-<a href="https://velog.io/@kjaemin0122"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kjaemin0122"/></a>&nbsp
+<a href="https://velog.io/@kjaemin0122"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white/></a>&nbsp
 
 <!--
 **K-Jae-min/K-Jae-Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
